@@ -1,0 +1,5 @@
+<resources>
+    <!-- Add this line -->
+    <string name="title_activity_results">Results</string>
+    <string name="percentageappexam">Grade Percentage</string>
+</resources>
